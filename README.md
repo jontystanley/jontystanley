@@ -5,7 +5,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Nicknamed:%20Jonty;Self-taught%20%2F:)%20;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <!-- Badges template - https://github.com/badges/shields -->
@@ -28,24 +28,24 @@
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=LaTeX-Gboard-Dictionary&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
   <a href="https://github.com/DenverCoder1/unicode-formatter"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="unicode-formatter"></a>
   <a href="https://github.com/DenverCoder1/weather-app-tutorial"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=weather-app-tutorial&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="weather-app-tutorial"></a>
   <a href="https://github.com/DenverCoder1/table2ascii"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="table2ascii"></a>
-</p>
+</p> -->
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/DenverCoder1?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
-
+ -->
 ## 📕 Top projects I've contributed to
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
   <a href="https://github.com/simple-icons/simple-icons"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="simple-icons"></a>
   <a href="https://github.com/rahuldkjain/github-profile-readme-generator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rahuldkjain&repo=github-profile-readme-generator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-profile-readme-generator"></a>
@@ -56,12 +56,12 @@
 
 <p align="left">
   <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
-</p>
- -->
+</p> -->
+
 ## 🙋‍♂️ Connect with me
 
 <!-- Badges template - https://github.com/badges/shields -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.youtube.com/c/DevProTips"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://twitter.com/DenverCoder1"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server">
@@ -69,7 +69,7 @@
   <a href="https://dev.to/denvercoder1"><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
   <a href="https://ko-fi.com/jlawrence"><img alt="Ko-fi" title="Buy me a coffee" src="https://img.shields.io/badge/-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
   <a href="http://eyl327.mywebcommunity.org/promos/"><img alt="Free Stuff" title="Free gifts for you" src="https://img.shields.io/badge/-free%20promos-D1A104?style=for-the-badge&logo=coveralls&logoColor=white"/></a>
-</p>
+</p> -->
 
 ## 🔥 Streak stats
 
@@ -186,12 +186,12 @@
 <!-- YouTube Cards - WIP by DenverCoder1 -->
 
 <!-- YOUTUBE:START -->
-[![Keeping your dependencies updated automatically with Dependabot](https://freshidea.com/jonah/app/youtube-card/?id=22XrqdIe8oQ)](https://www.youtube.com/watch?v=22XrqdIe8oQ "Keeping your dependencies updated automatically with Dependabot")
+<!-- [![Keeping your dependencies updated automatically with Dependabot](https://freshidea.com/jonah/app/youtube-card/?id=22XrqdIe8oQ)](https://www.youtube.com/watch?v=22XrqdIe8oQ "Keeping your dependencies updated automatically with Dependabot")
 [![Creating Cogs and Commands - Python Discord Bot [Part 3]](https://freshidea.com/jonah/app/youtube-card/?id=rgS_OOA12NA)](https://www.youtube.com/watch?v=rgS_OOA12NA "Creating Cogs and Commands - Python Discord Bot [Part 3]")
 [![How to Host a Discord Bot 24/7 for FREE [Part 2]](https://freshidea.com/jonah/app/youtube-card/?id=EreE-0hQibM)](https://www.youtube.com/watch?v=EreE-0hQibM "How to Host a Discord Bot 24/7 for FREE [Part 2]")
 [![Building a Discord Bot with Python - Bot Basics [Part 1]](https://freshidea.com/jonah/app/youtube-card/?id=arLTipYONl8)](https://www.youtube.com/watch?v=arLTipYONl8 "Building a Discord Bot with Python - Bot Basics [Part 1]")
 [![How to Bulk Rename Files Easily on Windows](https://freshidea.com/jonah/app/youtube-card/?id=DCP1elBAy_U)](https://www.youtube.com/watch?v=DCP1elBAy_U "How to Bulk Rename Files Easily on Windows")
-[![Getting the user's location with JavaScript (Geolocation API tutorial)](https://freshidea.com/jonah/app/youtube-card/?id=JdJ2VBbYYTQ)](https://www.youtube.com/watch?v=JdJ2VBbYYTQ "Getting the user's location with JavaScript (Geolocation API tutorial)")<!-- YOUTUBE:END -->
+[![Getting the user's location with JavaScript (Geolocation API tutorial)](https://freshidea.com/jonah/app/youtube-card/?id=JdJ2VBbYYTQ)](https://www.youtube.com/watch?v=JdJ2VBbYYTQ "Getting the user's location with JavaScript (Geolocation API tutorial)")<!-- YOUTUBE:END --> -->
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/DevProTips?sub_confirmation=1) -->
 
