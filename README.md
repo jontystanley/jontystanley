@@ -193,7 +193,7 @@
 [![How to Bulk Rename Files Easily on Windows](https://freshidea.com/jonah/app/youtube-card/?id=DCP1elBAy_U)](https://www.youtube.com/watch?v=DCP1elBAy_U "How to Bulk Rename Files Easily on Windows")
 [![Getting the user's location with JavaScript (Geolocation API tutorial)](https://freshidea.com/jonah/app/youtube-card/?id=JdJ2VBbYYTQ)](https://www.youtube.com/watch?v=JdJ2VBbYYTQ "Getting the user's location with JavaScript (Geolocation API tutorial)")<!-- YOUTUBE:END --> 
 
-[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/UCTdgwUHfg9FLR8tQnHlu67w?sub_confirmation=1) 
+[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCTdgwUHfg9FLR8tQnHlu67w?sub_confirmation=1) 
 
 ## 📊 Github stats
 
